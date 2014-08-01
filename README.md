@@ -1,8 +1,6 @@
 # morpheus
 
 
-A fork of the Alpheios version of Perseus Morpheus parser at: <https://svn.code.sf.net/p/alpheios/code/morpheus/>
-
-The HMT project can use this fork to add new vocabulary discovered in the HMT-MOM validation of editions.
+This repository is no longer active:  it has been moved to <https://github.com/homermultitext/morpheus>.
 
 
